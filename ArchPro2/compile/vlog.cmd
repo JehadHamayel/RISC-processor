@@ -1,0 +1,1 @@
+-o C:/My_Designs/ArchProject2/ArchPro2/compile -lc C:/My_Designs/ArchProject2/library.cfg -fl C:/My_Designs/ArchProject2/ArchPro2/projlib.cfg -pli "C:/Aldec/Active-HDL-Student-Edition/bin/systf.dll" -epr C:/My_Designs/ArchProject2/ArchPro2/compile/ArchPro2.epr -O2 -sve -msg 5 -sv2k12 -work ArchPro2 C:/My_Designs/ArchProject2/ArchPro2/src/archPro2.v 

@@ -1,0 +1,171 @@
+timestamp=1689011576941
+
+[~A]
+C:/My_Designs/ArchProject2/ArchPro2/src/archPro2.v=0*1601893*1606352
+CUSP_Counter=101
+LastVerilogToplevel=DataPath_test
+ModifyID=310
+Version=74
+c:/My_Designs/ArchProject2/ArchPro2/src/archPro2.v=0*21668*22510
+
+[~MFT]
+0=7|0ArchPro2.mgf|1606352|1193339
+1=6|1ArchPro2.mgf|3959269|3920732
+3=12|3ArchPro2.mgf|5174627|5130936
+
+[$root]
+A/$root=22|||1*3948170
+BinW64/$root=3*5152116
+SLP=3*5152231
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c73a565f2ade592f8ac1c68f484c92168cbfd39e793e6e811305c05e3c36497f
+
+[ALU]
+A/ALU=22|../src/archPro2.v|38|1*603649
+BinW64/ALU=3*428905
+R=../src/archPro2.v|38
+SLP=3*430296
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|b3eb40c25b2a3c0379c7730185183eec7c7dbb327c697f2f05b0105af26188ae
+
+[DataPath_test]
+A/DataPath_test=22|../src/archPro2.v|534|1*3959269
+BinW64/DataPath_test=3*5173989
+R=../src/archPro2.v|534
+SLP=3*5174627
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|64899d8a38458796615245ee7d6bf769bfb0b30d2dc0801162a0212c9e1abf717ee7acfa58a8eb0591879e3a61bcbfc3
+
+[GeneralMod]
+A/GeneralMod=22|../src/archPro2.v|13|1*3948640
+BinW64/GeneralMod=3*5152299
+R=../src/archPro2.v|13
+SLP=3*5161297
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|4f6913fcc19bfa6dbf6cc260a6435658cc706a2f36bfe413c194c171c55c262215491058932c63dddf566827f5dceae8
+
+[Register]
+A/Register=22|../src/archPro2.v|336|1*1686580
+BinW64/Register=3*1513655
+R=../src/archPro2.v|336
+SLP=3*1513773
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|7363ea9b581f91c08034b355da367b5eb4470a4173a9ccfce999ce8608f2fc7b4cb1a2257f52ebf56af2f265a6ccf5b8
+
+[UnitScopePackage_87]
+A/UnitScopePackage_87=22|../src/archPro2.v|0|1*1607286
+BinW64/UnitScopePackage_87=3*1427092
+CUSP=1
+R=../src/archPro2.v|0
+SLP=3*1429535
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|fab98aed36991913255ea6c02c9bb53e3c98fb1cfcd295a441ec1041e7951c495c876fd04daa016c0130b01f544fe1d0
+
+[UnitScopePackage_88]
+A/UnitScopePackage_88=22|../src/archPro2.v|0|1*1624840
+BinW64/UnitScopePackage_88=3*1445415
+CUSP=1
+R=../src/archPro2.v|0
+SLP=3*1447858
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|fab98aed36991913255ea6c02c9bb53e10d1208edbe073a1944e54cea92fcae2aa63d692378f19cd5b22b3ea1537a1b4
+
+[\GeneralMod instMem \]
+A/\GeneralMod instMem \=22|../src/archPro2.v|233|1*227919
+BinW64/\GeneralMod instMem \=3*157793
+R=../src/archPro2.v|233
+SLP=3*158368
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c41fb85ced6df8b242033c5e9898bb7d31b4c3d20a906ab0f6ff145111f3b8a4f6893906d1f0c75e0d1315ae86fc26e7
+
+[dataMemory]
+A/dataMemory=22|../src/archPro2.v|16|1*778288
+BinW64/dataMemory=3*563563
+R=../src/archPro2.v|16
+SLP=3*564350
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|0f52dcf82f7a4029ac342e67e8db7b90633dfbca2f406df17328f8dc8a250fb9389c8ac67b32c53fabe4ea79688f4e2a
+
+[instMem]
+A/instMem=22|../src/archPro2.v|1|1*243133
+BinW64/instMem=3*167998
+R=../src/archPro2.v|1
+SLP=3*168559
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|4ec7a8137c005b5dbbf01457f4b384a326527262ddaa47cb266f3a3c4d9b973ae2c5f5aa6f32b93f4e3ae4cc8f453706
+
+[pc]
+A/pc=22|../src/archPro2.v|444|1*2370658
+BinW64/pc=3*2508769
+R=../src/archPro2.v|444
+SLP=3*2508881
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|e4c3b9c1a0cb632b487294b82186bd9d9589690223ce21db151190ef66fecc6d
+
+[programCounter]
+A/programCounter=22|../src/archPro2.v|181|1*369260
+BinW64/programCounter=3*259744
+R=../src/archPro2.v|181
+SLP=3*260140
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|5a21c06968d2c7b3e998d58f43091059a9910e063fa6e5d9ee8baded3137dccbfce1b1dd5380dcc47e891564214acb92
+
+[programCounterReg]
+A/programCounterReg=22|../src/archPro2.v|2|1*1776831
+BinW64/programCounterReg=3*1609076
+R=../src/archPro2.v|2
+SLP=3*1609203
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|5a21c06968d2c7b3e998d58f430910598135f0ad2ddc8c46014c5c337d96a7c7dba25768cd1b42025ddb774a8170028e
+
+[programCounter_test]
+A/programCounter_test=22|../src/archPro2.v|459|1*1605992
+BinW64/programCounter_test=3*1426091
+CUSP=UnitScopePackage_87
+R=../src/archPro2.v|459
+SLP=3*1426709
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|5a21c06968d2c7b3e998d58f43091059ebd2a6de533276dcefa5a2ed0a0b85fa5c876fd04daa016c0130b01f544fe1d0
+
+[regsiters]
+A/regsiters=22|../src/archPro2.v|5|1*559896
+BinW64/regsiters=3*397038
+R=../src/archPro2.v|5
+SLP=3*397692
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c61b296d60447496aff332673fc56a17e711739d3258eb7291525b46820d6d99f2b8d7a1157875636cf1110bdd46c72b
+
+[stack]
+A/stack=22|../src/archPro2.v|5|1*1054707
+BinW64/stack=3*833657
+R=../src/archPro2.v|5
+SLP=3*834353
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|2ed4df2fade9bedabaa537e76064e746f4a85324c399137982fe7347d8ab009a
+
+[stackPointer]
+A/stackPointer=22|../src/archPro2.v|1|1*1647238
+BinW64/stackPointer=3*1467836
+R=../src/archPro2.v|1
+SLP=3*1467958
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|1c45dfdaad8831b9e40a289da6f634a132851eb3df3dd2977fce7a26c39f3c4d3920324ff7cbad18c87558c7b588aeba
+
+[stack_test]
+A/stack_test=22|../src/archPro2.v|459|1*1623582
+BinW64/stack_test=3*1444442
+CUSP=UnitScopePackage_88
+R=../src/archPro2.v|459
+SLP=3*1445051
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f9fc37334b42ab47f0110efa92bd29bcecd6f1f905094578367dad23e67146ba553b3e75362aee9f61ec3abe07ae7e0d
+
+[stake_test]
+A/stake_test=22|../src/archPro2.v|434|1*1850123
+BinW64/stake_test=3*1701598
+R=../src/archPro2.v|434
+SLP=3*1702174
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|cff7d583eae75e5b05b686d1012b3c16ebf69bfc8c109154eae97bc4d0750356ef4c0b92712d078069baa2c7b56b0c53
+
+[~U]
+$root=12|0*1600667|
+ALU=12|0*222522||0x10
+DataPath_test=12|0*1601710||0x10
+GeneralMod=12|0*1600961|
+Register=12|0*587363||0x10
+UnitScopePackage_87=12|0*559353||0x40200000
+UnitScopePackage_88=12|0*565293||0x40200000
+\GeneralMod instMem \=12|0*88664|
+dataMemory=12|0*279138||0x10
+instMem=12|0*96436|
+pc=12|0*868836||0x10
+programCounter=12|0*139872||0x10
+programCounterReg=12|0*620178||0x10
+programCounter_test=12|0*559135||0x10
+regsiters=12|0*208057||0x10
+stack=12|0*371886||0x10
+stackPointer=12|0*575733||0x10
+stack_test=12|0*565097||0x10
+stake_test=12|0*643450||0x10
